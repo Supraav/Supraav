@@ -4,8 +4,7 @@
 
 I'm a passionate developer with experience in:
 - **Python** (Odoo,Django,Fastapi, Automation, Web Scraping)
-- **JavaScript** (Frontend & Backend)
-- **HTML & CSS** (Responsive Web Design)
+- **JavaScript** 
 - **REST APIs** (Integration & Development)
 
 ## 🛠️ What I Do
