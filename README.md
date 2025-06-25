@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Supraav!
+# 👋 Hi, I'm Suprav!
 
 ## 💻 About Me
 
